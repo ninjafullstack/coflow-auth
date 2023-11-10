@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'San Francisco Pro Text';
+    src: url('/SFProText-Regular.woff2') format('woff2');
+    src: url('/SFProText-Medium.woff2') format('woff2');
+    src: url('/SFProText-Semibold.woff2') format('woff2');
+    src: url('/SFProText-Bold.woff2') format('woff2');
+    src: url('/SFProText-Heavy.woff2') format('woff2');
+}
